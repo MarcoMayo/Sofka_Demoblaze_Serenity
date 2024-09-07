@@ -1,0 +1,4 @@
+Hallazgos y conclusiones
+
+1. La página web no es muy intuitiba a la hora de agregar productos al carrito, esto no permite generar una alta confianza en los cleintes.
+2. No se realiza ningún tipo de validación en los campos que s epuede diligenciar.
